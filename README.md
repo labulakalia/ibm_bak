@@ -1,6 +1,6 @@
 ## IBM中文网站文章备份
 
-[疑似IBM中文网站链接(已删除)](https://web.archive.org/web/20210201114129/https://developer.ibm.com/zh/blogs/ibm-developer-zh-sunset/)
+[疑似IBM中文网站将要关闭(已删除)](https://web.archive.org/web/20210201114129/https://developer.ibm.com/zh/blogs/ibm-developer-zh-sunset/)
 
 ## 全部文章索引
 [2D、3D、物理和网络.md](ibm_articles/2D、3D、物理和网络.md)  
