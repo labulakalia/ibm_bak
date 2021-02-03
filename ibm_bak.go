@@ -106,7 +106,7 @@ func main() {
     var urls = make(chan string)
     pageurl := `https://developer.ibm.com/zh/articles/page/%d/?fa=date%3ADESC&fb`
     go SavePages(urls)
-    for i := 2; i <= 73; i++ {
+    for i := 1; i <= 1; i++ {
         var url = fmt.Sprintf(pageurl, i)
         resp, err := http.Get(url)
         if err != nil {
